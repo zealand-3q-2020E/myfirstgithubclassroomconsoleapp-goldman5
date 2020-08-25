@@ -14,6 +14,7 @@ namespace MyFirstGitHubClassRoomConsoleApp
             //se herefter på dit GitHub Classroom repo om ændringen er kommet op 
 
             Console.WriteLine("Hello world");
+            Console.ReadKey();
         }
     }
 }
